@@ -1,0 +1,10 @@
+# Claude Code — machine-local settings
+.claude/settings.local.json
+
+# q/kdb+ artifacts
+*.qdb
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
